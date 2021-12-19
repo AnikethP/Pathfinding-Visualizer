@@ -24,7 +24,7 @@ Demo:
 https://user-images.githubusercontent.com/66244944/146669877-c599040f-f65d-40f5-a0c0-7fed10f7f64a.mp4
 
 
-**A* Search**
+**A\* Search**
 
 https://user-images.githubusercontent.com/66244944/146670011-72eca30a-04f2-4447-a9af-b149b7f3f569.mp4
 
