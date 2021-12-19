@@ -17,7 +17,7 @@ GUI.py | Implements all animations and interactive visualizer components using t
 
 
 
-Demo:
+Demos:
 
 **Dijkstra's/BFS**
 
